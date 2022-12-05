@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "ImgOps Finder Add-on",
+    "version": "1.0",
+    
+    "description": "Just select any image and find it on the whole web. Created by Tuncay Kaptan, not affiliated with ImgOps. Just i was need this add-on and i created it.",
+    
+    "background": {
+    "scripts": ["background.js"]
+    },
+    
+    "permissions": ["menus"]
+}
