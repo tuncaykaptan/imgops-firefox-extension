@@ -1,7 +1,11 @@
 {
     "manifest_version": 2,
     "name": "ImgOps Finder Add-on",
-    "version": "1.0",
+    "version": "1.1",
+    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+    "icons": {
+        "48": "icons/icon.png"
+      },
     
     "description": "Just select any image and find it on the whole web. Created by Tuncay Kaptan, not affiliated with ImgOps. Just i was need this add-on and i created it.",
     
