@@ -6,6 +6,8 @@ a simple extension.
 </p>
 Just select any image and find it on the whole web. Created by Tuncay Kaptan, not affiliated with ImgOps website.
 
+//
+
 Update: Firefox published my extension! Now you can install it from mozilla add-ons page.
 
 # Download:
