@@ -1,7 +1,7 @@
 # imgops-firefox-extension
 Just select any image and find it on the whole web. Created by Tuncay Kaptan, not affiliated with ImgOps website.
 
-Update: Firefox just published my extension! Now you can install it from mozilla add-ons page.
+Update: Firefox published my extension! Now you can install it from mozilla add-ons page.
 
 # Download:
 <a href="https://addons.mozilla.org/tr/firefox/addon/imgops-photo-finder-unofficial/" target="_blank">
