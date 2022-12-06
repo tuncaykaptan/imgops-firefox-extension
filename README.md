@@ -7,7 +7,7 @@ Just select any image and find it on the whole web. Created by Tuncay Kaptan, no
 Update: Firefox published my extension! Now you can install it from mozilla add-ons page.
 
 # Download:
-<a href="https://addons.mozilla.org/tr/firefox/addon/imgops-photo-finder-unofficial/" target="_blank">
+<a href="https://addons.mozilla.org/tr/firefox/addon/imgops-photo-finder/" target="_blank">
 <img src="https://user-images.githubusercontent.com/75607066/205859654-0ac8794b-0332-4def-bdf8-a6ba18304d8e.png" width="200">
 </a>
 
