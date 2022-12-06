@@ -1,4 +1,6 @@
 # ImgOps Firefox Extension
+a basic extension.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75607066/205916344-3bd59c45-9a4e-487e-b338-d7e8f5402595.png" alt="ImgOps Extension Promotion" width="600">
 </p>
