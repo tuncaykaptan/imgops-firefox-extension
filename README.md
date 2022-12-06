@@ -1,4 +1,7 @@
-# imgops-firefox-extension
+# ImgOps Firefox Extension
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75607066/205916344-3bd59c45-9a4e-487e-b338-d7e8f5402595.png" alt="ImgOps Extension Promotion" width="600">
+</p>
 Just select any image and find it on the whole web. Created by Tuncay Kaptan, not affiliated with ImgOps website.
 
 Update: Firefox published my extension! Now you can install it from mozilla add-ons page.
@@ -11,4 +14,4 @@ Update: Firefox published my extension! Now you can install it from mozilla add-
 # How To Use:
 Right click any image and select "Search with ImgOps"
 
-![resim](https://user-images.githubusercontent.com/75607066/205721986-077880c5-9521-4eec-b130-c7c1602460f6.png)
+![Screenshot_8](https://user-images.githubusercontent.com/75607066/205917259-0e78deb0-0afb-4b77-94ca-829d90402a8e.png)
