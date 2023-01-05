@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "ImgOps Finder Add-on",
     "version": "1.1",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+    "homepage_url": "https://github.com/tuncaykaptan/imgops-firefox-extension",
     "icons": {
         "48": "icons/icon.png"
       },
